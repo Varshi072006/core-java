@@ -1,0 +1,22 @@
+1991 - green project  (James Gosling and a small team at sun Microsystems explore software for consumer devices)
+1991 - named "Oak" ( The new language is named after an Oak tree outside Going\office)
+1992 - star 7 demo (A handheld prototype[*7] shows Oak code running on custom hardware)
+1995 - Renamed Java ( "Oak" is already trademarked ,java is publicly announced in May 1995)
+1996 - JDK 1.0 (First official release {January 1996} -Java goes mainstream)
+THE IDEA : WRITE ONCE,RUN ANYWHERE  
+            compile once into into portable bytecode. Any device with a Java Virtual Machine(JVM) can run it -no rewrite needed.
+HOW JAVA EVOLVED: 30 YEARS OF STEADY UPGRADES
+       java 1.0 (JAN 1996)  -- JVM, core libraries,applets--"Write once,Run Anywhere" 
+       java 5   (Sep 2004)  -- Genetics,annotations,enums,enhanced for loop 
+       java 8   (Mar 2014)  -- Lambdas,Stream API, ,new date/time API
+       java 11  (Sep 2018)  -- Fint LTS of the 6-month era; stabdard HTTP client
+       java 17  (Sep 2021)  -- Records,sealed classes, taxt blocks,spring Boot 3/4 baseline
+       java 21  (Sep 2023)  -- Virtual threads,pattern matching for switch,record patterns
+       java 25  (Sep 2025)  -- compact source files,scoped values, compact object headers.
+Data types 
+   NUMERIC data types:
+         int,float,double,short,byte,long
+   String data type :
+         string,char
+   Boolean :
+          boolean ( True or False )
