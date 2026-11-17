@@ -33,3 +33,17 @@ syntax :
             \\block of code 
       }
 \\block od code satement
+
+switch(condition){
+case 1:
+   \\statement 1;
+    \\break;
+case 2:
+    \\statement 2;
+    \\break;
+case n:
+    \\statement n;
+    \\break;
+default:
+    \\statement
+      \\break;
