@@ -1,0 +1,35 @@
+Control Statements
+  It is of 3 types
+      1.conditional 
+          if,ifelse,elseif ladder,nested if,switch
+      2. looping
+          for,while,dowhile
+      3.Jumping
+            continue,break,return
+syntax : 
+if condition {
+          //block of code 
+    }
+syntax :
+if condition{
+       //block of code
+}
+else{
+    //block of code
+}
+syntax :
+if condition 1{
+     //block of code
+}else if condition2{
+      //block of code 
+}else if condition3{
+      //block of code
+}else{
+    //block of code
+}
+syntax :
+  if condition1{
+        if condition2{
+            \\block of code 
+      }
+\\block od code satement
