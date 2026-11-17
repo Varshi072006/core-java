@@ -47,3 +47,6 @@ case n:
 default:
     \\statement
       \\break;
+for( int i=0;i<=10;i++){
+\\block of code }
+for(initialize,condition,increment/decrement)
