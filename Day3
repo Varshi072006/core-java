@@ -1,0 +1,31 @@
+concrete class : 
+    a concrete class is a regular class used to create objects
+Access modifirer :
+    public,protected,private,default
+oop
+1.concrete class
+2.Abstract class
+3.final
+4.static
+funtion types:
+1.with parameters ,with return type
+2.without parameters ,with return type
+3.without parameters ,without return type
+4.with parameters ,without return type
+static method
+class venu {
+static int vamsi(int a,int b)[
+    return a*b;
+}
+pvsm{
+      venu.vamsi(10,20);
+}
+non-static method 
+class venu {
+non-static int vamsi(int a,int b)[
+    return a*b;
+}
+pvsm{
+      venu obj=new venu();
+      obj.vamsi(10,20);
+}
